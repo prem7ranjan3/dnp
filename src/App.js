@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Click Here For Nothing
+          Click Here For Everything
         </a>
       </header>
     </div>
